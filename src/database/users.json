@@ -1,0 +1,42 @@
+[
+    {
+        "userId": 1,
+        "username": "shoh_jasurovich",
+        "password": "a8de20df3fa9b2ee1a23e82d6ac78bb4eb661ff48019fca411174e2bf18813de"
+    },
+    {
+        "userId": 2,
+        "username": "shoh",
+        "password": "d4ff819ed7dcef4ea21ceba14af1bcd202c69420c9df55bfbbba4b603dc4a9f0"
+    },
+    {
+        "userId": 3,
+        "username": "nodir",
+        "password": "83570175d1c66f81bdc8411016e6f54f76256ca97c54ca1a6dca50c5a8a1602f"
+    },
+    {
+        "userId": 4,
+        "username": "jalol",
+        "password": "82380d855dd89d2a0537b4bd59ad42e3b993a15c5846f68009c1a9584d1f9e28"
+    },
+    {
+        "userId": 5,
+        "username": "Shahzodbek",
+        "password": "71fd5252825b87b572cfd0a9acc727338c3d04b224bccd21d81f60c1009f2f6e"
+    },
+    {
+        "userId": 6,
+        "username": "jamshid",
+        "password": "37afd45dcb022024792124428869b4823613d79469ccc39453ab295fd37c4e4f"
+    },
+    {
+        "userId": 7,
+        "username": "suhrob",
+        "password": "90d67454672750b764e9ae368f850ca34d0abaf84a6bec943ec227cc909d5d93"
+    },
+    {
+        "userId": 8,
+        "username": "youtube",
+        "password": "63ada41aafbd16d01ba32d4c7524d8e99d6df0aa3a025b8f4230a5cf8bccb6f4"
+    }
+]
